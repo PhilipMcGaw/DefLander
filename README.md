@@ -21,7 +21,7 @@ This is inspired by the [ToyLander](https://www.toylander.com/), but is engineer
 * Each motor must have a maximum RMS input voltage not greater than 48V from the motor controller.
 * Each car shall have at least one battery with a nominal voltage less than or equal to 48V that supplies traction current to the controller and motor
 * 48V = 30A (10S - 12S Lipo) (Digikey #F7139-ND BF1 series)
-* 36V = 40A(8S - 9S Lipo) (Digikey #F3089-ND MIDI series
+* 36V = 40A (8S - 9S Lipo) (Digikey #F3089-ND MIDI series
  OR Digikey #F6792-ND BF1 series)
 
 ### § 1.13.3. Brakes
